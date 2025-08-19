@@ -1,0 +1,11 @@
+data_id,file_name,cp1,cp2,cp3,cp4,correctAns
+selectImage,pict01.jpg,みかん,なし,さくらんぼ,バナナ,0
+selectImage,pict02.jpg,すいか,みかん,バナナ,なし,2
+selectImage,pict03.jpg,バナナ,りんご,ぶどう,なし,1
+selectImage,pict04.jpg,りんご,いちご,みかん,なし,1
+selectImage,pict05.jpg,いちご,なし,りんご,ぶどう,3
+selectImage,pict06.jpg,ぶどう,パイナップル,すいか,なし,2
+selectImage,pict07.jpg,さくらんぼ,マスカット,すいか,なし,1
+selectImage,pict08.jpg,パイナップル,マスカット,りんご,なし,0
+selectImage,pict09.jpg,さくらんぼ,パイナップル,ぶどう,なし,0
+selectImage,pict10.jpg,さくらんぼ,なし,みかん,パイナップル,1
